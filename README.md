@@ -1,5 +1,4 @@
 # Digital Clock
-!(digital.clock)[dch]
 
 Creating a digital clock using HTML, CSS, and JavaScript is a fun and educational project that helped me understand the basics 
 of web development and dynamic content manipulation. The digital clock will display the current time and update every second, 
@@ -15,6 +14,17 @@ other web technologies like CSS and JavaScript to create an aesthetically pleasi
 # CSS
 CSS (Cascading Style Sheets) is crucial in building a digital clock as it defines the visual presentation of the clock, 
 enhancing its aesthetic appeal and usability.
+
+# JavaScript
+JavaScript played crucial for building a digital clock because it dynamically retrieves and updates the current time on a webpage. 
+Using the Date object, JavaScript fetches the current hours, minutes, and seconds. 
+The setInterval function is then used to update the clock every second, ensuring real-time accuracy. 
+By manipulating the DOM, JavaScript displays the time in a user-friendly format within an HTML element. This process runs continuously 
+in the background, creating a live digital clock that can be easily integrated into any website, 
+making it an essential tool for dynamic, real-time applications.
+
+# Screenshot
+![newclock](https://github.com/user-attachments/assets/4a325596-125a-4fb6-ac15-1359ac5051b8)
 
 
 
